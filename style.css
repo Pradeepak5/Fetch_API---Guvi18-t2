@@ -1,0 +1,13 @@
+.field h1{
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    color: red;
+}
+.field h2{
+    color:blue;
+    font-size: 1rem;
+}
+.field p{
+    color:green;
+}
